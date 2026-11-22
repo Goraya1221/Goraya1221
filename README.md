@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zulkifal 👋
 
-<!--
-**Goraya1221/Goraya1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about **Cloud Computing, Cloud Infrastructure, and DevOps**.
 
-Here are some ideas to get you started:
+Currently, I'm focused on building a strong foundation in Linux, Networking, AWS, and Infrastructure Management through hands-on labs and practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+- ☁️ AWS & Cloud Infrastructure
+- 🐧 Linux System Administration
+- 🌐 Computer Networking
+- 🐳 Docker & Containerization
+- ⚙️ DevOps & CI/CD
+- 🔐 Cloud Security & IAM
+
+### 🎯 My Goal
+To become a skilled Cloud / DevOps Engineer by understanding how real-world infrastructure works, building practical projects, and continuously improving my technical skills.
+
+### 📌 What You'll Find Here
+- Hands-on labs and experiments
+- Cloud and Linux projects
+- DevOps practice
+- Learning notes and documentation
+
+**Learning by building. Improving by breaking things. Growing one project at a time.** 🚀
